@@ -1,0 +1,15 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+  font-size: .900rem
+}
+
+.body{
+  height: 80vh;
+  width: 100%;
+}
+small{
+  font-size: 10px;
+}
+.box{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
